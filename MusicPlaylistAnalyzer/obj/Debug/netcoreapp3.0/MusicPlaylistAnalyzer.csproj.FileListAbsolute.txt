@@ -1,0 +1,11 @@
+O:\OneDrive\Documents\Work\academia\b\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.exe
+O:\OneDrive\Documents\Work\academia\b\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.deps.json
+O:\OneDrive\Documents\Work\academia\b\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.runtimeconfig.json
+O:\OneDrive\Documents\Work\academia\b\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.runtimeconfig.dev.json
+O:\OneDrive\Documents\Work\academia\b\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.dll
+O:\OneDrive\Documents\Work\academia\b\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\bin\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.pdb
+O:\OneDrive\Documents\Work\academia\b\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.csprojAssemblyReference.cache
+O:\OneDrive\Documents\Work\academia\b\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.AssemblyInfoInputs.cache
+O:\OneDrive\Documents\Work\academia\b\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.AssemblyInfo.cs
+O:\OneDrive\Documents\Work\academia\b\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.dll
+O:\OneDrive\Documents\Work\academia\b\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\MusicPlaylistAnalyzer\obj\Debug\netcoreapp3.0\MusicPlaylistAnalyzer.pdb
