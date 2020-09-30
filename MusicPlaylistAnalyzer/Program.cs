@@ -80,7 +80,7 @@ namespace MusicPlaylistAnalyzer
             try
             {
                 int columns = 0;
-                string[] DataLines = File.ReadAllLines(filePath);
+                string[] DataLines = File.ReadAllLines(filePath);//replace local variable name DataLines with dataLines . local variables always start with small letter
                 for (int index = 0; index < DataLines.Length; index++)
                 {
                     string crimeDataLine = DataLines[index];
