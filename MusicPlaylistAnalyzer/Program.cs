@@ -192,7 +192,7 @@ namespace MusicPlaylistAnalyzer
                     reportData.Append(Environment.NewLine);
 
 
-                    var _songs_before_1970 = from musicData in DataList
+                    var _songs_before_1970 = from musicData in DataList // local variable _songs_before_1970  rename with songs_before_1970. underscore is not good local variable name
                                          where musicData.Year<1970
                                          select musicData;
 
